@@ -1,10 +1,7 @@
-
-```bash
-如果[$(id-u)！="0"]；则
 #!/bin/bash
 #
 # Dante SOCKS5服务器自动安装
-# --作者：Lozy
+# --作者：hillvision
 
 set -e  # 任何命令失败立即退出
 
