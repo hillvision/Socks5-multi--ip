@@ -19,7 +19,7 @@ wget --no-check-certificate https://github.com/hillvision/Socks5-multi--ip/blob/
 
 ## 安装脚本
 ```bash
-bash install.sh  --port=端口 --user=用户名 --passwd=密码
+bash install.sh  --port=443 --user=user --passwd=passwd
 
 # 
 # 注意：端口和用户名密码需要自己修改成你自己的
